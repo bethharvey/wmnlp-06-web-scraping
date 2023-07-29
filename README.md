@@ -1,5 +1,9 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
+* Beth Harvey
+* Module 6
+* July 29, 2023
+
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
